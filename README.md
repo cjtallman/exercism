@@ -1,2 +1,3 @@
-# exercism
-Solutions to coding exercises from exercism.io
+# Exercism Solutions
+
+This is a repo with my solutions to exercism.io coding exercises.
